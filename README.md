@@ -11,7 +11,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 - Explore and categorize content based on specific criteria and keywords.
 - Analyze the distribution of content types (movies vs TV shows).
 - Identify the most common ratings for movies and TV shows.
-- 
+  
 ## Dataset
 
 The data for this project is sourced from the Kaggle dataset:
